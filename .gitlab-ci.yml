@@ -1,0 +1,26 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  CI_REGISTRY: registry.gitlab.com
+  CI_REGISTRY_USER: your-gitlab-username
+  CI_REGISTRY_PASSWORD: $GITLAB_ACCESS_TOKEN  # Store your GitLab Access Token in GitLab CI/CD variables
+  CI_REGISTRY_IMAGE: $CI_REGISTRY_USER/credit-card-fraud-app
+
+build:
+  stage: build
+  script:
+    - docker build -t $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA .
+    - docker push $CI_REGISTRY_IMAGE:$CI_COMMIT_SHA
+
+test:
+  stage: test
+  script:
+    - python -m unittest discover
+
+deploy:
+  stage: deploy
+  script:
+    - kubectl apply -f app-deployment.yaml
