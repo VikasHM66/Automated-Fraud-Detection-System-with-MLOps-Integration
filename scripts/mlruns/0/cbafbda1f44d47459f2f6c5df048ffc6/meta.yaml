@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vikas/Downloads/credit-card-fraud-detection/scripts/mlruns/0/cbafbda1f44d47459f2f6c5df048ffc6/artifacts
+end_time: 1718614727607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbafbda1f44d47459f2f6c5df048ffc6
+run_name: adaptable-sloth-459
+run_uuid: cbafbda1f44d47459f2f6c5df048ffc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718614176394
+status: 3
+tags: []
+user_id: vikas

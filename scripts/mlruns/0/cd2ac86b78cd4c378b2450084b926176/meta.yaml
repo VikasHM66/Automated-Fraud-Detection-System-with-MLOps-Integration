@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vikas/Downloads/credit-card-fraud-detection/scripts/mlruns/0/cd2ac86b78cd4c378b2450084b926176/artifacts
+end_time: 1718610999634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd2ac86b78cd4c378b2450084b926176
+run_name: bustling-horse-617
+run_uuid: cd2ac86b78cd4c378b2450084b926176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718610999472
+status: 4
+tags: []
+user_id: vikas

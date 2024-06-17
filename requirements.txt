@@ -1,0 +1,19 @@
+# General dependencies
+flask
+pandas
+scikit-learn
+joblib
+mlflow
+numpy
+gunicorn
+
+# For data preprocessing and manipulation
+matplotlib
+seaborn
+
+# For Docker and Kubernetes
+docker
+kubernetes
+
+# For MLflow tracking server setup (optional)
+pyyaml

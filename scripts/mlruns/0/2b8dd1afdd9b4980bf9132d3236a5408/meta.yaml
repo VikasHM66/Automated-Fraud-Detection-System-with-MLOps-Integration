@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vikas/Downloads/credit-card-fraud-detection/scripts/mlruns/0/2b8dd1afdd9b4980bf9132d3236a5408/artifacts
+end_time: 1718610567259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b8dd1afdd9b4980bf9132d3236a5408
+run_name: abrasive-dog-27
+run_uuid: 2b8dd1afdd9b4980bf9132d3236a5408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718610567075
+status: 4
+tags: []
+user_id: vikas
