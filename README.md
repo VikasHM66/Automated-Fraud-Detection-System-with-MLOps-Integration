@@ -5,7 +5,7 @@
 - ### Project Description:
 This project demonstrates a comprehensive machine learning operations (MLOps) pipeline for detecting fraudulent credit card transactions. The system is designed to ensure reproducibility, scalability, and seamless deployment using a combination of Mlflow, Flask, Docker, Kubernetes, and GitLab CI/CD.
 
--## Libraries and Tools Used
+- ## Libraries and Tools Used
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
