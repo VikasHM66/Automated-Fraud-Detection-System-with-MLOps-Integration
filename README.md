@@ -5,7 +5,7 @@
 - ### Project Description:
 This project demonstrates a comprehensive machine learning operations (MLOps) pipeline for detecting fraudulent credit card transactions. The system is designed to ensure reproducibility, scalability, and seamless deployment using a combination of Mlflow, Flask, Docker, Kubernetes, and GitLab CI/CD.
 
-- ## Libraries and Tools Used
+-## Libraries and Tools Used
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -21,7 +21,7 @@ This project demonstrates a comprehensive machine learning operations (MLOps) pi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank">
-    <img src="https://mlflow.org/images/favicon.png" alt="MLflow" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/favicon.png" alt="MLflow" width="40" height="40"/>
   </a>
   <a href="https://gitlab.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
@@ -39,6 +39,7 @@ This project demonstrates a comprehensive machine learning operations (MLOps) pi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
