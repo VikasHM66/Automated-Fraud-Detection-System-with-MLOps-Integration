@@ -19,7 +19,7 @@ This project demonstrates a comprehensive machine learning operations (MLOps) pi
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
-  <a href="https://mlflow.org/" target="_blank">
+  <a href="https://mlflow.org/img/mlflow-black.svg" target="_blank">
     <img src="https://github.com/mlflow/mlflow/blob/master/docs/source/images/favicon.ico" alt="MLflow" width="40" height="40"/>
   </a>
   <a href="https://gitlab.com/" target="_blank">
@@ -28,7 +28,7 @@ This project demonstrates a comprehensive machine learning operations (MLOps) pi
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank">
+  <a href="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
