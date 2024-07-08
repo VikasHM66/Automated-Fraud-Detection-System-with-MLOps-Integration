@@ -9,7 +9,7 @@ This project demonstrates a comprehensive machine learning operations (MLOps) pi
 The goal of this project is to develop an automated fraud detection system for credit card transactions. This project covers the full machine learning lifecycle, from data preprocessing and model training to deployment and monitoring.
 
 - ### Features:
-MLOps Pipeline: Utilizes Mlflow for experiment tracking, model training, and deployment.
+- MLOps Pipeline: Utilizes Mlflow for experiment tracking, model training, and deployment.
 Web Application: A Flask-based web app for serving predictions with a user-friendly interface.
 Containerization: Uses Docker to containerize the application.
 Orchestration: Deploys using Kubernetes with Minikube for scalability.
